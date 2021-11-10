@@ -1,5 +1,5 @@
-# Team-Profile-Generator\
-## Table of Contents\
+# Team-Profile-Generator \
+## Table of Contents 
 * Project Description
 * Installation
 * Usage
