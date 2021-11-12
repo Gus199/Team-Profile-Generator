@@ -39,7 +39,7 @@ Please feel free to submit any code updates for review and acceptance.
 ## Questions
 
 Please feel free to ask me anyquestions:
-* 
+* If you have any questions about the repo, open an issue or contact directly augustine2903a@gmail.com.
 * 
 
 ## Screenshot
